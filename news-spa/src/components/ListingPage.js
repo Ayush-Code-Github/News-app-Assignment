@@ -1,4 +1,3 @@
-// src/pages/ListingPage.js
 import React, { useState, useEffect } from 'react';
 import { fetchNews } from '../api';
 import { Link } from 'react-router-dom';

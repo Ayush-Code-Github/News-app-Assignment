@@ -1,4 +1,3 @@
-// src/api.js
 const API_KEY = '6332dbccd91d4b2580d8bcbe68098d41';
 const BASE_URL = 'https://newsapi.org/v2';
 
